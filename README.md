@@ -1,6 +1,6 @@
 # Wagtail sharing images as a Service
 
-An adapted version of https://og-image.vercel.app
+An adapted version of https://og-image.vercel.app, with Wagtail branding and logo. Hosted at https://wagtail-sharing-image.vercel.app/
 
 ## Authors of the original tool
 
